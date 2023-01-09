@@ -1,0 +1,114 @@
+body{
+    background-image: url("imgs/main.jpg");
+    background-size:contain ;
+
+    
+}
+nav{
+    text-align: center;
+    margin-top: 20;
+    border: solid;
+    padding: 10;
+    width: 96%;
+    margin-left: 20;
+    color: aliceblue;
+    
+}
+nav a{
+    font-size: 30;
+    margin-left: 10;
+    margin-right: 10;
+    text-decoration: none;
+    color: rgb(247, 241, 241);
+}
+a:hover{
+    color: rgb(175, 189, 23);
+    background-color: rgb(105, 119, 127);
+}
+#content{
+    margin: 20;
+    background-color: hsl(180, 25%, 25%,50%);
+    width: 98%;
+    height: 85%;
+    text-align: center;
+    color: aliceblue;
+    border: aliceblue;
+}
+.section{
+    background-color: darkslategrey;
+    font-size: 50;
+    color: black;
+    display: inline-block;
+    width: 20%;
+    margin:10; 
+    border: solid;
+    height: 70%;
+    vertical-align: top;
+    
+    
+}
+.section:hover{
+    height: 60%;
+    font-size: 40;
+    background-color: hsl(36, 100%, 84%,0);
+}
+#content a:hover{
+    text-decoration: none;
+    
+    background-color: hsl(36, 100%, 84%,0);
+}
+.section h6{
+    color: aliceblue;
+    padding: 0;
+    margin: 15;
+}
+#section1{
+    background-color: hsl(36, 100%, 84%,0);
+    background-image: url(imgs/333.jpg);
+    background-size:cover;
+    
+}
+#section1 h6{
+    color: black;
+}
+#section2{
+    background-image: url(imgs/444.png);
+    background-size:cover;
+}
+#section2 h6{
+    color: black;
+}
+#section3{
+    background-image: url(imgs/555.jpg);
+    background-size:cover;
+}
+#section4{
+    background-image: url(imgs/666.jfif);
+    background-size:cover;
+}
+#section3 h6{
+    color: black;
+}
+#section4 h6{
+    color: black;
+}
+#contactDiv{
+    height: 400;
+    background-color:hsl(0, 0%, 0%,.8) ;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 20;
+    padding: 20;
+    vertical-align: top;
+}
+#contactDiv a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 28;
+}
+.contact{
+    display: inline-block   ;
+    width: 400;
+    padding-top: 20;
+    vertical-align: top;
+}

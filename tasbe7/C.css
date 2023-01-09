@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image: url("../imgs/daweq.jpg");
+    color: rgb(254, 254, 254);
+    background-size: contain;
+}
+#tasbe7{
+    margin-top: 10;
+    margin-bottom: 10;
+    font-size: 70;
+    
+}
+#counter{
+    margin-top: 10;
+    margin-bottom: 10;
+    color: blue;
+    font-size: 70;
+}
+#tasbe7BTN{
+    font-size: 20;
+    background-color:hsl(34, 57%, 70%,.2) ;
+    width:250;
+    height: 50;
+    margin-bottom: 10;
+    color: rgb(255, 238, 238);
+}
